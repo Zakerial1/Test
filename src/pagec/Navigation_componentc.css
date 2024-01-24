@@ -1,0 +1,19 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.Name_site{
+    font-size: 20xp;
+
+}
+.but_navigation{
+    padding: 5px;
+    border-radius: 15px;
+    background-color: aqua;
+    margin: 15px;
+    box-shadow: 5px 5px 5px rgb(124, 124, 124);
+}
